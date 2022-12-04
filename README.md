@@ -11,7 +11,11 @@ Faça o download aqui:
 
 2º PASSO: Abra a pasta e abra o arquivo "WhatsApp".
 
+##### OBS: Para utilizar a aplicação você deve estar com o WhatsApp Web logado em seu Navegador.
+
 # Prontinho você já pode usar o app!
+
+![APP]()
 
 
 
